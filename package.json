@@ -1,0 +1,27 @@
+{
+  "name": "react-wizard",
+  "version": "1.0.0",
+  "description": "Step by step wizard component",
+  "main": "react-wizard.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react",
+    "react-component",
+    "component",
+    "wizard",
+    "step-by-step"
+  ],
+  "author": "John Ku",
+  "license": "MIT",
+  "peerDependencies": {
+    "react": ">=0.13"
+  },
+  "devDependencies": {
+    "babel": "^5.1.5",
+    "babel-core": "^5.1.5",
+    "babel-loader": "^5.0.0",
+    "webpack": "^1.8.4"
+  }
+}
