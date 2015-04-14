@@ -2,7 +2,7 @@
   "name": "react-simple-wizard",
   "version": "1.0.0",
   "description": "Step by step wizard component",
-  "main": "react-wizard.js",
+  "main": "lib/react-simple-wizard.js",
   "repository": {
     "type": "git",
     "url": "https://github.com/kujohn/react-simple-wizard.git"
